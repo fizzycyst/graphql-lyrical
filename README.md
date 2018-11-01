@@ -1,2 +1,3 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+### Simple React/GRaphQL app to add lyrics to a song and add likes..
+
+Example project
